@@ -1,0 +1,9 @@
+{
+    "name": "Unity.Editor.LINQExt.Editor",
+    "references": [
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

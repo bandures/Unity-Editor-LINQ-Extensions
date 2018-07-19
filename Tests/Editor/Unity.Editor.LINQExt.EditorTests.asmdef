@@ -1,0 +1,13 @@
+{
+    "name": "Unity.Editor.LINQExt.EditorTests",
+    "references": [
+        "Unity.Editor.LINQExt.Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

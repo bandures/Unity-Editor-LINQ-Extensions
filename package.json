@@ -1,0 +1,9 @@
+{
+	"name": "com.unity.editor.linqext",
+	"displayName":"Unity Editor LINQ extensions",
+	"version": "0.1.0",
+	"unity": "2017.4",
+	"description": "Unity Editor LINQ extensions is extensions set for Unity Editor that allows traverse hierarchy of GameObject, Components, Assets and their properties. The design aims to get the power and simpicity of LINQ and provide a simple way to manipulate Unity objects.",
+	"dependencies": {
+	}
+}
